@@ -1,0 +1,62 @@
+{
+    "notes": [
+        {
+            "id": "1",
+            "senderId": "1",
+            "receiverId": "2",
+            "channelId": "0",
+            "img": "https://c.tenor.com/PKdC-ZBWfKQAAAAM/squirrel-eating.gif",
+            "reply": "Whatever",
+            "likes": [
+                {
+                    "userName": "3",
+                    "createdDate": "2022-07-23T05:02:31.213Z"
+                }
+            ],
+            "createdDate": "2022-07-23T05:02:31.213Z",
+            "updatedDate": "2022-07-23T05:02:31.213Z",
+            "replyDate": "2022-07-23T05:02:31.213Z"
+        },
+        {
+            "id": "f505afab-3bfd-4a8d-a34c-6862468bb89d",
+            "senderId": "1",
+            "receiverId": "2",
+            "channelId": "0",
+            "img": "",
+            "createdDate": "2022-07-23T11:40:09.369Z"
+        }
+    ],
+    "members": [
+        {
+            "firstName": "William",
+            "lastName": "Maher",
+            "id": "1",
+            "userName": "billMaher"
+        },
+        {
+            "firstName": "Little Steven",
+            "lastName": "Van Zandt",
+            "id": "2",
+            "userName": "StevieVanZandt"
+        },
+        {
+            "firstName": "Neil",
+            "lastName": "Tyson",
+            "id": "3",
+            "userName": "neiltyson"
+        },
+        {
+            "firstName": "Kay",
+            "lastName": "Leo",
+            "id": "4",
+            "userName": "iheartLeo"
+        }
+    ],
+    "channels": [
+        {
+            "id": "0",
+            "typeId": "0",
+            "name": "public"
+        }
+    ]
+}
